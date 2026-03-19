@@ -2,7 +2,7 @@
 
 
 This code was generated to support the manuscript entitled  'Predicting Arsenic and Manganese Contamination in Private Well Water with Machine Learning: An Integrated Analysis of Geologic, Well Construction, and Permitting Data' published in Science of the Total Environment in 2025. 
-> Payton A, Harrington CE, Miller SL, Colley T, Serre ML, Fry RC, Austin RE, Duckworth OW, Eaves LA, Rager JE. Predicting arsenic and manganese contamination in private well water with Machine Learning: An integrated analysis of geologic, well construction, and permitting data. Science of The Total Environment. 2025 Dec 1;1006:180907. doi: https://doi.org/10.1016/j.scitotenv.2025.180907<img width="468" height="84" alt="image" src="https://github.com/user-attachments/assets/d5d0181e-8634-4e68-8e27-e173a1fef844" />
+> Payton A, Harrington CE, Miller SL, Colley T, Serre ML, Fry RC, Austin RE, Duckworth OW, Eaves LA, Rager JE. Predicting arsenic and manganese contamination in private well water with Machine Learning: An integrated analysis of geologic, well construction, and permitting data. Science of The Total Environment. 2025 Dec 1;1006:180907. doi: https://doi.org/10.1016/j.scitotenv.2025.180907
 
 <p align="center">
 <img src = 'https://github.com/user-attachments/assets/ff770465-e754-4356-894a-99cf3c26b6fe' width = '600'>
